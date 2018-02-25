@@ -47,7 +47,7 @@
     "email": "mark.nunberg@couchbase.com",
     "privs": ["admin"],
     "location": {
-        "country": "United States",
+        "country": "United States of America",
         "state": "NV",
         "city": "Reno"
     },
